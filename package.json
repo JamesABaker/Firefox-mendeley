@@ -1,0 +1,13 @@
+{
+  "title": "Unofficial Mendeley Importer",
+  "name": "mendeley",
+  "version": "0.0.1",
+  "description": "Calls the Mendeley importer to cite the current page.",
+  "main": "index.js",
+  "author": "James Baker",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
