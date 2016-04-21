@@ -1,8 +1,8 @@
 {
-  "title": "Unofficial Mendeley Importer",
-  "name": "mendeley",
+  "title": "mendeley unofficial importer",
+  "name": "firefox-mendeley",
   "version": "0.0.1",
-  "description": "Calls the Mendeley importer to cite the current page.",
+  "description": "A basic add-on that calls the Mendeley importer",
   "main": "index.js",
   "author": "James Baker",
   "engines": {
