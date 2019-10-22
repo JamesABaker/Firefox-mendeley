@@ -1,4 +1,4 @@
-# Unofficial Mendeley Importer for Firefox
+# Unofficial Mendeley Importer for Firefox [Deprecated]
 A firefox addon that calls the Mendeley importer to cite the current page. Click the icon and the Mendeley import box will open.
 
 # To install
